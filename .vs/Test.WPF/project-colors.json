@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e020659-c653-43aa-8961-a25534eb5a94": {
+      "ProjectGuid": "8e020659-c653-43aa-8961-a25534eb5a94",
+      "DisplayName": "Test.WPF",
+      "ColorIndex": 0
+    },
+    "1404681b-06f0-47c7-8cda-e4722f86c274": {
+      "ProjectGuid": "1404681b-06f0-47c7-8cda-e4722f86c274",
+      "DisplayName": "Test.Data",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
